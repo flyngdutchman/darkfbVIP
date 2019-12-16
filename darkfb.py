@@ -9,7 +9,7 @@ print (colored('paket selesai di install.','blue'))
 baner = """
   ____________                                ║▒▒▒▒▒▒▒▒▒▒║
   ║▒▒▒▒▒▒▒▒▒▒║ TOLS DARKFB V.I.P
-  ║▒▒▒▒▒▒▒▒▒▒║ SPECIAL TAUNBARU
+  ║▒▒▒▒▒▒▒▒▒▒║ SPECIAL TAUN BARU
  ╔════════════╗
  ╚════════════╝ANTI CHECKPOINT✓
   ║██████████╚╗CRACK LEBIH CEPAT✓
