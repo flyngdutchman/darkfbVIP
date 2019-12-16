@@ -34,7 +34,7 @@ print (colored('loading......','yellow'))
 print (colored('loading....','red'))
 print (colored('loading...','green'))
 print (colored('loading..','blue'))
-print colored('loading.','purple:))
+print (colored('loading.','purple'))
 
 
 print (colored('maaf untuk saat ini tools sedang di perbaiki','red'))
