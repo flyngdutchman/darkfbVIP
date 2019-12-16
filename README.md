@@ -5,4 +5,4 @@ $ pkg install python
 $ pkg install git
 $ git clone https://github.com/flyngdutchman/darkfbVIP
 $ cd darkfbVIP
-$ python2 darkfb.pyc
+$ python darkfb.py
